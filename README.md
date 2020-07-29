@@ -10,3 +10,4 @@ When a player reaches a total of 100 or more points, the game ends and that play
 
 * Insides : DOM manipulation application with Vanilla Javascript, HTML 5 and CSS.
 * Link : [Pig-Game](https://atul-tyagi23.github.io/piggame/)
+![Screenshot](display.png)
